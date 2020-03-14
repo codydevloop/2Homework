@@ -23,6 +23,10 @@ body{
     color:yellow;
 }
 
+.cardHeightOnIndex{
+    height: 350px;
+}
+
 
 
 /* .lake-background{
