@@ -23,6 +23,10 @@ body{
     color:yellow;
 }
 
+.nav-bar-text h3{
+    color: white;
+}
+
 /* .lake-background{
     background-image: url("./assets/IMG_0606.jpg");
     width: 100%;
