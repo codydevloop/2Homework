@@ -26,6 +26,10 @@ body{
 .cardHeightOnIndex{
     height: 350px;
 }
+.copy{
+    color: white;
+    margin-top: 20px; 
+}
 
 
 
