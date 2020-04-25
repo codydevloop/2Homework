@@ -1,4 +1,8 @@
 # homework01codeRefactorWithFlexbox
+
+https://codydevloop.github.io/2Homework/
+
+
 recreating site implementing Flexbox CSS
 
 Reactive Portfolit Homework assignment 
