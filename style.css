@@ -4,6 +4,7 @@
 body{
     font-family: 'Roboto Slab', sans-serif;
     background: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/purty_wood.png");
+    /*background-image: url("./assets/workarea.jpg"); */
 }
 
 /* style FontAwesome CSS icon */
