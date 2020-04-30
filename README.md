@@ -1,6 +1,6 @@
 # homework01codeRefactorWithFlexbox
 
-https://codydevloop.github.io/2Homework/
+https://codydevloop.github.io/Portfolio/
 
 
 recreating site implementing Flexbox CSS
