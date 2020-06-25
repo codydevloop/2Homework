@@ -32,6 +32,28 @@ body{
     margin-top: 20px; 
 }
 
+.flexbox-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+    /* background-color:orange; */
+    /* justify-content: flex-end */
+}
+
+/* linkedin-github-resume */
+.flexbox-item-naviconsonly{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.flexbox-item-phoneinfo{
+  display: flex;
+  justify-content: center;
+}
+
 
 
 

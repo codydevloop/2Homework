@@ -3,8 +3,6 @@
 https://codydevloop.github.io/Portfolio/
 
 
-recreating site implementing Flexbox CSS
-
 Reactive Portfolit Homework assignment 
 
  Functional, deployed application
